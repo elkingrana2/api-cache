@@ -1,0 +1,17 @@
+com\challenge\cache\services\HistoryService.class
+com\challenge\cache\dto\ErrorResponse$ErrorResponseBuilder.class
+com\challenge\cache\dto\CalculationResponse.class
+com\challenge\cache\excepcions\GlobalExceptionHandler.class
+com\challenge\cache\services\CalculationService.class
+com\challenge\cache\excepcions\InternalServerException.class
+com\challenge\cache\repositories\HistoryRepository.class
+com\challenge\cache\services\ExternalPercentageService.class
+com\challenge\cache\dto\HistoryResponse.class
+com\challenge\cache\excepcions\BadRequestException.class
+com\challenge\cache\model\RequestHistory.class
+com\challenge\cache\CacheApplication.class
+com\challenge\cache\controllers\PercentageController.class
+com\challenge\cache\dto\CalculationRequest.class
+com\challenge\cache\dto\ErrorResponse.class
+com\challenge\cache\config\CacheConfig.class
+com\challenge\cache\config\SwaggerConfig.class

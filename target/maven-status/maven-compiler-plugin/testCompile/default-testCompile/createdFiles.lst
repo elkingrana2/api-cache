@@ -1,0 +1,4 @@
+com\challenge\cache\services\CalculationServiceTest.class
+com\challenge\cache\services\ExternalPercentageServiceTest.class
+com\challenge\cache\CacheApplicationTests.class
+com\challenge\cache\controllers\PercentageControllerTest.class

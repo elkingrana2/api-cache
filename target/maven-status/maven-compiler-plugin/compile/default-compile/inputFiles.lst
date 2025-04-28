@@ -1,0 +1,16 @@
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\CacheApplication.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\config\CacheConfig.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\config\SwaggerConfig.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\controllers\PercentageController.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\dto\CalculationRequest.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\dto\CalculationResponse.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\dto\ErrorResponse.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\dto\HistoryResponse.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\excepcions\BadRequestException.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\excepcions\GlobalExceptionHandler.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\excepcions\InternalServerException.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\model\RequestHistory.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\repositories\HistoryRepository.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\services\CalculationService.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\services\ExternalPercentageService.java
+C:\Users\NelumboBackDev\Documents\E\Documentos\2025-1\Tekton\repos\cache\src\main\java\com\challenge\cache\services\HistoryService.java
