@@ -33,7 +33,8 @@ Además:
 ### 2. Clonar el proyecto
 
 ```bash
-git clone https://github.com
+git clone https://github.com/elkingrana2/api-cache.git
+```
 
 ### 3. Levantar los servicios con Docker Compose
 Este proyecto incluye un docker-compose.yml que levanta:
